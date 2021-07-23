@@ -8,3 +8,4 @@ bin
 *.cfgc
 wireless_quality/cfg/wireless_quality
 docs
+.vscode/
